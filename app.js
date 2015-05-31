@@ -107,14 +107,6 @@ app.use('/users', users);
 //test
 //test
 //test
-//test
-//test
-//test
-//test
-//test
-//test
-//test
-//test
 
 /// catch 404 and forward to error handler
 app.use(function(req, res, next) {
