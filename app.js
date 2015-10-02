@@ -1,7 +1,5 @@
 
 //test
-//test
-//test
 var express = require('express');
 var path = require('path');
 var favicon = require('static-favicon');
